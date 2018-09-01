@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KecamatanIMB", "RevisiIMB\KecamatanIMB.vbproj", "{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Aplikasi IMB", "Aplikasi IMB\Aplikasi IMB.vdproj", "{8CA19276-668F-4CD6-A5CE-338481002B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Debug|x86.ActiveCfg = Debug|x86
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Debug|x86.Build.0 = Debug|x86
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Release|x86.ActiveCfg = Release|x86
+		{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}.Release|x86.Build.0 = Release|x86
+		{8CA19276-668F-4CD6-A5CE-338481002B0A}.Debug|Any CPU.ActiveCfg = Debug
+		{8CA19276-668F-4CD6-A5CE-338481002B0A}.Debug|x86.ActiveCfg = Debug
+		{8CA19276-668F-4CD6-A5CE-338481002B0A}.Release|Any CPU.ActiveCfg = Release
+		{8CA19276-668F-4CD6-A5CE-338481002B0A}.Release|Any CPU.Build.0 = Release
+		{8CA19276-668F-4CD6-A5CE-338481002B0A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

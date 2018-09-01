@@ -1,0 +1,50 @@
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.vbprojResolveAssemblyReference.cache
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.vbproj.GenerateResource.Cache
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\Abidzar\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.vbproj.GenerateResource.Cache
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.vbprojResolveAssemblyReference.cache
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources

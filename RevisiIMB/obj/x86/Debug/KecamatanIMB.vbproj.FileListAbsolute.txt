@@ -1,0 +1,217 @@
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\ITA ROSITA\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\ABIDZAR\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Documents\Visual Studio 2010\Projects\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.event_imblama.resources
+C:\Users\User\Documents\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.event_imblama.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.event_imblama.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\ABIDZAR\Desktop\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe.config
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.exe
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.pdb
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\RevisiIMB.xml
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\bin\Debug\QRCode.dll
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.beranda.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_daftar.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.cari_data_skimb.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_balik_nama.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetak_imb_baliknama.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetak_imb_penambahan.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetak_imb_ruko.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetak_penambahan.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.event_imblama.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form1.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form2.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.form_cetakimb.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_cetakpendaftaran.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Cetakskimb.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Data_Akun.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_Pengaturan.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_tambah_akun.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Form_utama.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.login.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pendaftaran.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.Resources.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.skimb.resources
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbproj.GenerateResource.Cache
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.exe
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.xml
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\RevisiIMB.pdb
+C:\Users\faiza\Desktop\SKRIPSI\RevisiIMB_Pagedangan\RevisiIMB\RevisiIMB\obj\x86\Debug\KecamatanIMB.vbprojResolveAssemblyReference.cache

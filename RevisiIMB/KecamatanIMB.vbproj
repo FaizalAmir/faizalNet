@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C55A8176-7C20-44C0-B1AD-0F7705C91AE8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>RevisiIMB.My.MyApplication</StartupObject>
+    <RootNamespace>RevisiIMB</RootNamespace>
+    <AssemblyName>RevisiIMB</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>RevisiIMB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>RevisiIMB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>picture1_HCW_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.1.0.12, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="QRCode">
+      <HintPath>.\QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="beranda.Designer.vb">
+      <DependentUpon>beranda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="beranda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari_data_daftar.Designer.vb">
+      <DependentUpon>cari_data_daftar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cari_data_daftar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cari_data_skimb.Designer.vb">
+      <DependentUpon>cari_data_skimb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cari_data_skimb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Cetak_ruko_imb.vb">
+      <DependentUpon>Cetak_ruko_imb.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Cetak_penambahan.vb">
+      <DependentUpon>Cetak_penambahan.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Cetak_baliknama.vb">
+      <DependentUpon>Cetak_baliknama.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Cetak_ruko_imb_baliknama.vb">
+      <DependentUpon>Cetak_ruko_imb_baliknama.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Cetak_ruko_imb_penambahan.vb">
+      <DependentUpon>Cetak_ruko_imb_penambahan.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_balik_nama.Designer.vb">
+      <DependentUpon>Form_balik_nama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_balik_nama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_cetak_imb_baliknama.Designer.vb">
+      <DependentUpon>Form_cetak_imb_baliknama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_cetak_imb_baliknama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_cetak_imb_penambahan.Designer.vb">
+      <DependentUpon>Form_cetak_imb_penambahan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_cetak_imb_penambahan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_cetak_imb_ruko.Designer.vb">
+      <DependentUpon>Form_cetak_imb_ruko.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_cetak_imb_ruko.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_Cetak_penambahan.Designer.vb">
+      <DependentUpon>Form_Cetak_penambahan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_Cetak_penambahan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cetakimb.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cetakimb.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Cetakskimb.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cetakskimb.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="event_imblama.Designer.vb">
+      <DependentUpon>event_imblama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="event_imblama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_cetakimb.Designer.vb">
+      <DependentUpon>form_cetakimb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_cetakimb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_cetakpendaftaran.Designer.vb">
+      <DependentUpon>Form_cetakpendaftaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_cetakpendaftaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_Cetakskimb.Designer.vb">
+      <DependentUpon>Form_Cetakskimb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cetakan SKIMB\Form_Cetakskimb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Data_Akun.Designer.vb">
+      <DependentUpon>Form_Data_Akun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Data_Akun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Pengaturan.Designer.vb">
+      <DependentUpon>Form_Pengaturan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Pengaturan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tambah_akun.Designer.vb">
+      <DependentUpon>Form_tambah_akun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tambah_akun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_utama.Designer.vb">
+      <DependentUpon>form_utama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="form_utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="koneksidb.vb" />
+    <Compile Include="login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pendaftaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pendaftaran.Designer.vb">
+      <DependentUpon>pendaftaran.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="skimb.Designer.vb">
+      <DependentUpon>skimb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="skimb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="beranda.resx">
+      <DependentUpon>beranda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cari_data_daftar.resx">
+      <DependentUpon>cari_data_daftar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cari_data_skimb.resx">
+      <DependentUpon>cari_data_skimb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Cetak_ruko_imb.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetak_ruko_imb.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Cetak_penambahan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetak_penambahan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Cetak_baliknama.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetak_baliknama.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Cetak_ruko_imb_baliknama.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetak_ruko_imb_baliknama.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Cetak_ruko_imb_penambahan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetak_ruko_imb_penambahan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Form_balik_nama.resx">
+      <DependentUpon>Form_balik_nama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Form_cetak_imb_baliknama.resx">
+      <DependentUpon>Form_cetak_imb_baliknama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Form_cetak_imb_penambahan.resx">
+      <DependentUpon>Form_cetak_imb_penambahan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Form_cetak_imb_ruko.resx">
+      <DependentUpon>Form_cetak_imb_ruko.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Form_Cetak_penambahan.resx">
+      <DependentUpon>Form_Cetak_penambahan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cetakimb.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cetakimb.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Cetakskimb.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetakskimb.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="event_imblama.resx">
+      <DependentUpon>event_imblama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_cetakimb.resx">
+      <DependentUpon>form_cetakimb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_cetakpendaftaran.resx">
+      <DependentUpon>Form_cetakpendaftaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakan SKIMB\Form_Cetakskimb.resx">
+      <DependentUpon>Form_Cetakskimb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Data_Akun.resx">
+      <DependentUpon>Form_Data_Akun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Pengaturan.resx">
+      <DependentUpon>Form_Pengaturan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tambah_akun.resx">
+      <DependentUpon>Form_tambah_akun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_utama.resx">
+      <DependentUpon>form_utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pendaftaran.resx">
+      <DependentUpon>pendaftaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="skimb.resx">
+      <DependentUpon>skimb.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="picture1_HCW_icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
